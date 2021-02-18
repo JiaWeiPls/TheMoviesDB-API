@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Circles.Movies</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Favourites</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="pop_movies">Popular Movies</string>
+    <string name="fav_movies">Favourite Movies</string>
+</resources>
